@@ -12,7 +12,7 @@ contract SaveERC20 {
     event WithdrawSuccessful(address receiver, uint256 amount);
 
     constructor() {
-        savingToken = 0xCAfd6A3FcBaFD07484d144ac434CF5d27b81724A;
+        savingToken = 0x129aA4b181210FED1F4f10517a425b2e4eb35F90;
         owner = msg.sender;
     }
 

@@ -6,13 +6,7 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [
-					{
-						"internalType": "address",
-						"name": "_savingToken",
-						"type": "address"
-					}
-				],
+				"inputs": [],
 				"stateMutability": "nonpayable",
 				"type": "constructor"
 			},
@@ -154,11 +148,11 @@
 	},
 	"sources": {
 		"contracts/Classwork.sol": {
-			"keccak256": "0x239e62b8f77b4d832ba71d0467908bf7aba1ef8c5ba7507b77a82ad114da442c",
+			"keccak256": "0x30c05924f59f6641c45cfe7c2d2e87779b396c7b275bba6a750c3ad6333300c3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://bca8d03c1b938413520c942cd4742d0c040dcf017999f034a0ef632b92c18687",
-				"dweb:/ipfs/QmdvAV6GPnsVwfVYDyuh74V9wUanTM8aqFNP79bJ4Ffye6"
+				"bzz-raw://52c9a24514508cc281d3f61277ae783677330286db1abaec8022c4e870b1f165",
+				"dweb:/ipfs/QmYbYVxJDKrRsxkJth2UCyzHWuG9f5DJyb11roZvPBJeH7"
 			]
 		},
 		"contracts/IERC20.sol": {

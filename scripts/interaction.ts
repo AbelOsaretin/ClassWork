@@ -2,7 +2,7 @@ import { parseEther } from "ethers";
 import { ethers } from "hardhat";
 
 async function main() {
-  const multiSigFactoryContract = "0xD15FBEb549E0b94C0282c01139A94742Cab6074E";
+  const multiSigFactoryContract = "0x757509E05df72465fc1FAc678Ae823c5DC450005";
   const MULTISIGFACTORY = await ethers.getContractAt(
     "SaveERC20",
     multiSigFactoryContract
